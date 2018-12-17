@@ -1,0 +1,21 @@
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\step motor nesne takibi.exe.config
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\step motor nesne takibi.exe
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\step motor nesne takibi.pdb
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.dll
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.Imaging.dll
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.Video.dll
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.Math.dll
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.xml
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.Imaging.xml
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.Video.xml
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\bin\Debug\AForge.Math.xml
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\obj\Debug\step motor nesne takibi.csprojAssemblyReference.cache
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\obj\Debug\step_motor_nesne_takibi.Form1.resources
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\obj\Debug\step_motor_nesne_takibi.Properties.Resources.resources
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\obj\Debug\step motor nesne takibi.csproj.GenerateResource.cache
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\obj\Debug\step motor nesne takibi.csproj.CoreCompileInputs.cache
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\obj\Debug\step motor nesne takibi.csproj.CopyComplete
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\obj\Debug\step motor nesne takibi.exe
+C:\Users\Recep AKBULUT\source\repos\step motor nesne takibi\step motor nesne takibi\obj\Debug\step motor nesne takibi.pdb
