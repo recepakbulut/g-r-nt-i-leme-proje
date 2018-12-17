@@ -1,0 +1,153 @@
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csprojAssemblyReference.cache
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne_takibi_3x3_led.Form1.resources
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne_takibi_3x3_led.Properties.Resources.resources
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.GenerateResource.cache
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.CoreCompileInputs.cache
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.exe.config
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.exe
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.pdb
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Controls.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Genetic.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Math.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Neuro.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Vision.dll
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Controls.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Genetic.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Math.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Neuro.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Vision.xml
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.CopyComplete
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.exe
+C:\Users\Recep AKBULUT\Desktop\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.pdb
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.exe.config
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.exe
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.pdb
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Controls.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Genetic.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Math.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Neuro.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Vision.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Controls.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Genetic.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Math.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Neuro.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Vision.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csprojAssemblyReference.cache
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne_takibi_3x3_led.Form1.resources
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne_takibi_3x3_led.Properties.Resources.resources
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.GenerateResource.cache
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.CoreCompileInputs.cache
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.CopyComplete
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.exe
+C:\Users\Recep AKBULUT\Desktop\görüntü proje\Yeni klasör\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.pdb
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.exe.config
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.exe
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\nesne takibi 3x3 led.pdb
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Controls.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Genetic.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Math.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Neuro.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Vision.dll
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Controls.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Genetic.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Math.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Neuro.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\bin\Debug\AForge.Vision.xml
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csprojAssemblyReference.cache
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne_takibi_3x3_led.Form1.resources
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne_takibi_3x3_led.Properties.Resources.resources
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.GenerateResource.cache
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.CoreCompileInputs.cache
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.csproj.CopyComplete
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.exe
+C:\Users\Recep AKBULUT\Desktop\görüntü işleme\GÖRÜNTÜ PROJELER\1.PROJE\nesne takibi 3x3 led\nesne takibi 3x3 led\obj\Debug\nesne takibi 3x3 led.pdb
